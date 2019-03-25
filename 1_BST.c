@@ -1,4 +1,3 @@
-//EP17BTECH11007 A4
 //This program can handle input of arbitrary size number
 
 #include <stdio.h>
